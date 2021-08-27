@@ -3,7 +3,10 @@
 ![Latest Version](https://img.shields.io/github/v/tag/austincloudguru/terraform-module-template?sort=semver&label=Latest%20Version)
 [![License](https://img.shields.io/github/license/austincloudguru/terraform-module-template)](https://github.com/austincloudguru/terraform-module-template/blob/master/LICENSE)
 
-Terraform module which creates
+Terraform module which creates resources for jfrog applications, including Artifactory, X-Ray, and Mission Control.
+
+!!!!! WARNING !!!!!!!
+This module is a work in progress.  Please don't use as it does not work.
 
 <!-- BEGINNING OF PRE-COMMIT-TERRAFORM DOCS HOOK -->
 ## Requirements
